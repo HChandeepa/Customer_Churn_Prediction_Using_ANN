@@ -1,3 +1,13 @@
-In this project I build a customer churn prediction model using artificial neural network or ANN. Customer churn measures how and why are customers leaving the business. I  used telecom customer churn dataset from kaggle (link below) and build a deep learning model for churn prediction. I also understand precision,recalll and accuracy of this model by using confusion matrix and classification report.
+# Customer Churn Prediction Model
 
-Dataset Link :-  https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+This project focuses on building a customer churn prediction model using an Artificial Neural Network (ANN). Customer churn is a critical metric for understanding why and how customers are leaving a business, and predicting this can help in implementing strategies to retain them.
+
+## Project Overview
+### Model Development:
+
+We use the Telecom Customer Churn dataset from Kaggle to build a deep learning model for predicting customer churn. The model is developed using an Artificial Neural Network (ANN) to classify whether a customer is likely to churn or not.
+### Model Evaluation:
+We evaluate the model's performance using key metrics such as precision, recall, and accuracy. Additionally, we utilize a confusion matrix and a classification report to get deeper insights into the model's effectiveness and to understand its prediction capabilities.
+Dataset
+The dataset used in this project is the Telecom Customer Churn dataset, which can be accessed via the following link:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
